@@ -37,7 +37,8 @@ This is the Practical application in which a survey data is analyzed to determin
 <img width="321" alt="Screen Shot 2024-10-08 at 12 12 52 AM" src="https://github.com/user-attachments/assets/98f649c1-f588-4d44-916f-7bdc3190b1ae">
 
 ## Insights based on Bar coupon data analysis
-* 
+* Bar coupon acceptance rate of drivers who went to a bar more than 3 times a month is **39.82%** higher than than the drivers who went to bar less than than 3 times a month  
+* Bar coupon acceptance rate of drivers who went to a bar more than once a month and are over the age of 25 is **36.08%** higher than other drivers
 
 ## Coffee House coupon analysis
 
