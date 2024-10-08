@@ -2,8 +2,8 @@
 This is the Practical application in which a survey data is analyzed to determine which drivers will accept what type of coupon
 
 ## Files:
-**pa5_1.ipynb** - jupyter notebook used for anlyzing the coupons data
-**data/coupons.csv** - data file having survey data
+1. **pa5_1.ipynb** - jupyter notebook used for anlyzing the coupons data  
+2. **data/coupons.csv** - data file having survey data
 
 ## Bar coupon analysis:
 
