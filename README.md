@@ -15,13 +15,27 @@ This is the Practical application in which a survey data is analyzed to determin
 ### 2. Visualizing coupon column data
 <img width="581" alt="Screen Shot 2024-10-07 at 11 56 55 PM" src="https://github.com/user-attachments/assets/8fc58bbb-4704-45aa-991d-839e17640f42">
 
+### 3. Histogram of Temperature data
+<img width="593" alt="Screen Shot 2024-10-08 at 12 01 52 AM" src="https://github.com/user-attachments/assets/efa54f92-36c6-41f8-8902-2dc5128bfb19">
+
 
 ## Bar coupon analysis:
 
-### Bar coupon acceptance ratio
+### 1. Bar coupon acceptance ratio
 ![bar_coupon_acceptance_pie_chart](https://github.com/user-attachments/assets/9b6131bb-ffab-4076-83d1-2f840668990d)
 
-### Bar 
+### 2. Bar coupon acceptance rate of "drivers going to bar 3 or fewer times a month" VS "drivers going to bar more than 3 times a month"
+<img width="612" alt="Screen Shot 2024-10-08 at 12 05 05 AM" src="https://github.com/user-attachments/assets/9cec6e0b-8a89-45fe-b83d-6d485b04f572">
+
+### 3. Bar coupon acceptance rate of "drivers who go to a bar more than once a month and are over the age of 25" to the "all others"
+<img width="654" alt="Screen Shot 2024-10-08 at 12 07 00 AM" src="https://github.com/user-attachments/assets/c5d94ced-c16d-4995-a4eb-3be0620f5d14">
+
+### 4. Bar coupon acceptance rate of "drivers who go to a bar more than once a month and had passengers that were not a kid" VS "drivers who go to a bar more than once a month and had occupations other than farming, fishing, or forestry" 
+<img width="320" alt="Screen Shot 2024-10-08 at 12 09 21 AM" src="https://github.com/user-attachments/assets/921bf9d8-af30-4ee3-91b9-0b14a32ee302">
+
+### 5. Bar coupon acceptance rate of "drivers who go to a bar more than once a month, had passengers that were not a kid, and were not widowed" VS "drivers who go to bars more than once a month and are under the age of 30" VS "drivers who go to cheap restaurants more than 4 times a month and income is less than 50K"
+<img width="321" alt="Screen Shot 2024-10-08 at 12 12 52 AM" src="https://github.com/user-attachments/assets/98f649c1-f588-4d44-916f-7bdc3190b1ae">
+
 
 ## Coffee House coupon analysis
 
