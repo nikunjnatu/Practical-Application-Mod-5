@@ -42,4 +42,19 @@ This is the Practical application in which a survey data is analyzed to determin
 
 ## Coffee House coupon analysis
 
+### 1. Coffee House coupon acceptance ratio
+<img width="195" alt="Screen Shot 2024-10-08 at 2 29 30 PM" src="https://github.com/user-attachments/assets/7e6ab7df-c0f3-4d44-9f59-bca5db29c5bc">
 
+### 2. Coffee House coupon acceptance rate of "drivers who go to a Coffee House more than 3 times a month" VS "drivers who go to a Coffee House 3 or less times a month"
+<img width="327" alt="Screen Shot 2024-10-08 at 2 30 22 PM" src="https://github.com/user-attachments/assets/8a699de8-6a7d-4812-b2e9-9b8145969df1">
+
+### 3. Coffee House coupon acceptance rate of "drivers who go to a Coffee House more than 3 times a month and whose destination is work" VS "drivers who go to a Coffee House more than 3 times a month and whose destination is No Urgent Place"
+<img width="329" alt="Screen Shot 2024-10-08 at 2 31 05 PM" src="https://github.com/user-attachments/assets/f78c7a07-6691-4375-b42b-4d7ff30509d6">
+
+### 4. Coffee House coupon acceptance rate of "drivers who go to a Coffee House more than 3 times a month" VS "drivers who go to a Coffee House more than 8 times a month"
+<img width="329" alt="Screen Shot 2024-10-08 at 2 31 51 PM" src="https://github.com/user-attachments/assets/2ff3eb16-a60c-4dde-9f19-2e4915344ffa">
+
+## Insights based on Coffee House coupon data analysis
+* Coupon acceptance rate of drivers who went to a coffee house more than 3 times a month is **22.56% more** than drivers who went to a coffee house less than or equal to 3 times a month  
+* Coupon acceptance rate of drivers who went to a coffee house more than 3 times a month and had destination as 'No Urgent Place' have **7.36% more** than drivers who went to a coffee house more than 3 times a month and had destination as 'Work'  
+* There is a very small difference of **1.71%** between Coupon acceptance rate of drivers who went to a coffee house more than 3 times a month VS Coupon acceptance rate of drivers who went to a coffee house more than 8 times a month
