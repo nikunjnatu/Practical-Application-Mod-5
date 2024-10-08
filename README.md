@@ -9,6 +9,7 @@ This is the Practical application in which a survey data is analyzed to determin
 ## EDA (Exploratory Data Analysis):
 ### 1. Investigating the dataset for missing or problematic data
 <img width="574" alt="Screen Shot 2024-10-07 at 11 47 22 PM" src="https://github.com/user-attachments/assets/a6ac2f39-e047-47c2-83f3-e4be305e646e">  
+  
 * Dropped 'Car' column since it had 99.14% missing records
 
 ### 2. Visualizing coupon column data
