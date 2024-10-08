@@ -36,6 +36,8 @@ This is the Practical application in which a survey data is analyzed to determin
 ### 5. Bar coupon acceptance rate of "drivers who go to a bar more than once a month, had passengers that were not a kid, and were not widowed" VS "drivers who go to bars more than once a month and are under the age of 30" VS "drivers who go to cheap restaurants more than 4 times a month and income is less than 50K"
 <img width="321" alt="Screen Shot 2024-10-08 at 12 12 52 AM" src="https://github.com/user-attachments/assets/98f649c1-f588-4d44-916f-7bdc3190b1ae">
 
+## Insights based on Bar coupon data analysis
+* 
 
 ## Coffee House coupon analysis
 
